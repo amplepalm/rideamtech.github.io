@@ -12,7 +12,7 @@ hero:
       link: https://mandla.money/web/
     - theme: alt
       text: Docs
-      link: /wallet/mandlasmswallet
+      link: /wallet/intro
   image: /award.png
 
 features:
