@@ -27,8 +27,14 @@ export default defineConfig({
         ]
       },
       {
+        text: 'About Us',
+        link: '/about'
+      }, {
         text: 'Contact Us',
         link: '/contact-us'
+      }, {
+        text: 'FAQ',
+        link: '/faq'
       }
     ],
 
